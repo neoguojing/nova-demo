@@ -1,0 +1,9 @@
+gradio==4.25.0
+gradio_pdf==0.0.5
+llama_index==0.10.27
+Pillow==10.3.0
+protobuf==5.26.1
+PyJWT==2.8.0
+Requests==2.31.0
+sensenova==1.0.6
+pytesseract==0.3.10
